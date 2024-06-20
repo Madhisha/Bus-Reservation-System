@@ -4,10 +4,7 @@
 	<head>
 		<?php include('header.php') ?>
         <?php 
-        // session_start();
-        // if(isset($_SESSION['login_id'])){
-        //     header('Location:home.php');
-        // }
+       
         ?>
 		<title>Admin Login |Online Bus Reservation</title>
 	</head>
