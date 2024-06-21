@@ -2,7 +2,7 @@
 
 ## Contributors:
 - Abirami M
-- Kabhinyashri S V
+- Kabhinyasri S V
 - Jayavarshini S S
 - Jeevashakthi V
 - Madhisha S
